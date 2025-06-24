@@ -1,2 +1,2 @@
-\# NuGet PackageServer
+# NuGet PackageServer
 
