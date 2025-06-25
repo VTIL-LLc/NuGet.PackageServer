@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("PackageServer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("NuGet Package Server")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("VTIL LLc")]
 [assembly: AssemblyProduct("PackageServer")]
@@ -31,5 +31,5 @@ using System.Runtime.InteropServices;
 //
 // You can specify all the values or you can default the Revision and Build Numbers 
 // by using the '*' as shown below:
-[assembly: AssemblyVersion("1.0.0.1")]
-[assembly: AssemblyFileVersion("1.0.0.1")]
+[assembly: AssemblyVersion("1.2.1.5")]
+[assembly: AssemblyFileVersion("1.2.1.5")]
