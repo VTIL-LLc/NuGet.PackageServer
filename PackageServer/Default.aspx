@@ -19,13 +19,15 @@
         <div class="container-fluid">
             <div class="navbar-header">
                 <div class="navbar-brand">
-                    VTIL LLc &copy;
-                    <script> document.write(new Date().getFullYear());</script>
+                    NuGet Package Server
                 </div>
             </div>
 
             <ul class="nav navbar-nav navbar-right">
-                <li class="navbar-text"><%= System.Environment.MachineName %></li>
+                <li class="navbar-text">
+                    VTIL LLc &copy;
+                    <script> document.write(new Date().getFullYear());</script>
+                </li>
             </ul>
 
 
